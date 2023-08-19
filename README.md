@@ -15,9 +15,10 @@ I have expertise in various programming languages and technologies, including:
 
 ## Connect with Me
 You can connect with me on the following platforms:
-- [LinkedIn](<SEU_LINKEDIN>) ![LinkedIn Logo](linkedin-logo.png)
-- [Instagram](<SEU_INSTAGRAM>) ![Instagram Logo](instagram-logo.png)
-- WhatsApp: <SEU_NUMERO_DE_TELEFONE>
+- [LinkedIn]([<SEU_LINKEDIN>](https://www.linkedin.com/in/jo%C3%A3o-victor-gonzaga-716a94231/)) ![LinkedIn Logo](![linkedin](https://github.com/iaevitin7/iaevitin7/assets/136175136/72df8d16-2948-465d-88b9-a56a5e3dfdb0)
+)
+- [Instagram]([<SEU_INSTAGRAM>](https://www.instagram.com/jhonviivi/)) ![Instagram Logo](!(https://github.com/iaevitin7/iaevitin7/assets/136175136/3eab2753-05ce-44c3-a4fc-20bc248b7303))
+- WhatsApp: 11 98189-8579
 
 <!-- Português -->
 # Sobre Mim
@@ -38,4 +39,4 @@ Tenho conhecimento em várias linguagens de programação e tecnologias, incluin
 Você pode se conectar comigo nas seguintes plataformas:
 - [LinkedIn](<SEU_LINKEDIN>) ![LinkedIn Logo](linkedin-logo.png)
 - [Instagram](<SEU_INSTAGRAM>) ![Instagram Logo](instagram-logo.png)
-- WhatsApp: <SEU_NUMERO_DE_TELEFONE>
+- WhatsApp: 11 98189-8579
