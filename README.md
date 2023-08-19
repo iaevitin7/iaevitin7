@@ -1,5 +1,8 @@
 <!-- Inglês -->
-# About Me
+<img src="imagens/banner.png" width="100%">
+<br>
+
+## About me <br>
 Hi there! I'm João Victor Gonzaga de Carvalho, a 17-year-old aspiring computer scientist. I'm currently pursuing a technical degree in informatics at Senac Vila Prudente and also taking a Python course at Senai Vila Alpina, which is a 80-hour intensive program.
 
 ## Skills
@@ -20,6 +23,8 @@ You can connect with me on the following platforms:
 &nbsp;
 <a href="https://www.instagram.com/jhonviivi/"><img src="imagens/instagram.png" alt="" width="30px"></a>
 - WhatsApp: 11 98189-8579
+
+<br>
 
 <!-- Português -->
 # Sobre Mim
