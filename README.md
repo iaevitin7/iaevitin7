@@ -1,16 +1,41 @@
-### Hi there 👋
+<!-- Inglês -->
+# About Me
+Hi there! I'm João Victor Gonzaga de Carvalho, a 17-year-old aspiring computer scientist. I'm currently pursuing a technical degree in informatics at Senac Vila Prudente and also taking a Python course at Senai Vila Alpina, which is a 80-hour intensive program.
 
-<!--
-**iaevitin7/iaevitin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+I have expertise in various programming languages and technologies, including:
+- C#
+- MySQL
+- SQL Server
+- Programming Logic
+- HTML5
+- CSS3
+- JavaScript
+- Python
 
-Here are some ideas to get you started:
+## Connect with Me
+You can connect with me on the following platforms:
+- [LinkedIn](<SEU_LINKEDIN>) ![LinkedIn Logo](linkedin-logo.png)
+- [Instagram](<SEU_INSTAGRAM>) ![Instagram Logo](instagram-logo.png)
+- WhatsApp: <SEU_NUMERO_DE_TELEFONE>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Português -->
+# Sobre Mim
+Olá! Sou João Victor Gonzaga de Carvalho, um aspirante a cientista da computação de 17 anos. Atualmente, estou cursando técnico em informática no Senac Vila Prudente e também realizando um curso de Python de 80 horas no Senai Vila Alpina.
+
+## Habilidades
+Tenho conhecimento em várias linguagens de programação e tecnologias, incluindo:
+- C#
+- MySQL
+- SQL Server
+- Lógica de Programação
+- HTML5
+- CSS3
+- JavaScript
+- Python
+
+## Conecte-se Comigo
+Você pode se conectar comigo nas seguintes plataformas:
+- [LinkedIn](<SEU_LINKEDIN>) ![LinkedIn Logo](linkedin-logo.png)
+- [Instagram](<SEU_INSTAGRAM>) ![Instagram Logo](instagram-logo.png)
+- WhatsApp: <SEU_NUMERO_DE_TELEFONE>
